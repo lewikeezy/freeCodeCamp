@@ -20,7 +20,7 @@ This directory contains all of the documentation on contributing to freeCodeCamp
 ## [If you are getting started, start by reading this first.](/CONTRIBUTING.md)
 
 ---
-You have taken a wise descision by been here, you will tips here that will be valuable to you and keep you very much on track.
+You have taken a wise descision by been here, you will get tips here that will be valuable to you and keep you very much on track.
 
 ## Quick references articles
 
